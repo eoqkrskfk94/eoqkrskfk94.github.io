@@ -1,8 +1,8 @@
 # Site settings
 title: Hello
 description: 
-baseurl: ":
-url: "https://eoqkrskfk94.github.io"
+baseurl: /
+url: https://eoqkrskfk94.github.io/
 
 # User settings
 username: 김명진 Myung Jin Kim
